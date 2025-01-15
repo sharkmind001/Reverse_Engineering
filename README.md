@@ -56,5 +56,5 @@
 7. [Assembly Language for Beginners](https://www.youtube.com/watch?v=LfXahoBkz5Y&list=PLgWOIdHQBEz5t__8v6eZXxKLTV8SGj5kN&index=12)
 8. [Basic Assembly Programming](https://youtu.be/gfmRrPjnEw4?si=nq9MMZiPWkxIi5qZ)
 9. [Advanced Assembly Techniques](https://www.youtube.com/watch?v=P5JOlz7MeYg&list=PLsu3nQRCX0RIjLN0eUNzQbDFyfz8E_DJi&index=2)
-10. [Malik Shahzaib Official]https://www.youtube.com/watch?v=_BpOV3G1-m0&list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG
+10. [Malik Shahzaib Official](https://www.youtube.com/watch?v=_BpOV3G1-m0&list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG)
 
